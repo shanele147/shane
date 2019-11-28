@@ -5,12 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          shane
-        </p>
-
-      </header>
+          <p>Hello ReactJS !</p>
+          <p>Shane</p>
     </div>
   );
 }
