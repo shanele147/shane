@@ -23,7 +23,7 @@
     align-items: baseline;
   width: 300px;
   height: 420px;
-  border-collapse: grey;
+  border-color: grey;
   border-style: solid;
   border-width: 0.8px;
   margin-left: 50px;
@@ -34,6 +34,7 @@
     height: auto;
     padding: 20px;
 }
+
 
 .sale-bar {
   position: absolute;
