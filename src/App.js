@@ -6,8 +6,6 @@ import './style.css';
 function App() {
   return (
     <div className="App">
-      <p>Hello ReactJS !</p>
-      <br></br>
       <div className="img-container"> 
       <img src='img/chair.jpg'></img>
       </div>
