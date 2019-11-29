@@ -8,15 +8,15 @@ function App() {
     <div className="App">
       <p>Hello ReactJS !</p>
       <p>Shane</p>
-      <div class="img-container"> 
+      <div className="img-container"> 
       <img src='img/chair.jpg'></img>
       </div>
 
-      <div class="sale-bar">SALE</div>
-      <div class="promotion-content">
+      <div className="sale-bar">SALE</div>
+      <div className="promotion-content">
         <h3>FURNITURE</h3>
-        <p class="promotion-text">Minimal Decor Furniture</p>
-        <p><span class="sale-price">$119.00 USD</span><span class="normal-price">$230.00 USD</span></p>
+        <p classNames="promotion-text">Minimal Decor Furniture</p>
+        <p><span className="sale-price">$119.00 USD</span><span class="normal-price">$230.00 USD</span></p>
       </div>
     </div>
 
