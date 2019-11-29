@@ -5,9 +5,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Hello ReactJS !</p>
-      <p>Shane</p>
-      <div class="img-container"> <img src='img/chair.jpg'></img></div>
+      */}
+      <div class="img-container"> Hello
+      {/* <img src='img/chair.jpg'></img> */}
+      </div>
 
       <div class="sale-bar">SALE</div>
       <div class="promotion-content">
