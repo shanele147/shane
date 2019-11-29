@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <p>Hello ReactJS !</p>
       <p>Shane</p>
-      {/* <div class="img-container"> 
+      <div class="img-container"> 
       <img src='img/chair.jpg'></img>
       </div>
 
@@ -16,7 +16,7 @@ function App() {
         <h3>FURNITURE</h3>
         <p class="promotion-text">Minimal Decor Furniture</p>
         <p><span class="sale-price">$119.00 USD</span><span class="normal-price">$230.00 USD</span></p>
-      </div> */}
+      </div>
     </div>
 
   );
