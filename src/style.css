@@ -26,6 +26,7 @@
   border-collapse: grey;
   border-style: solid;
   border-width: 0.8px;
+  margin-left: 40px;
 }
 
 .img-container img {
