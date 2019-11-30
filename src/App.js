@@ -2,12 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 // import './App.css';
 import './style.css';
+import 'chair.jpg';
 
 function App() {
   return (
     <div className="App">
       <div className="img-container"> 
-      <img src='img/chair.jpg'></img>
+      <img src='chair.jpg'></img>
       </div>
 
       <div className="sale-bar">SALE</div>
