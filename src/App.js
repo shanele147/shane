@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 // import './App.css';
 import './style.css';
-import 'chair.jpg';
+// import 'chair.jpg';
 
 function App() {
   return (
